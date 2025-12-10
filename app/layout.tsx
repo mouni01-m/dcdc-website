@@ -7,14 +7,15 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import FloatingContact from "@/components/FloatingContact";
+import { content } from "googleapis/build/src/apis/content";
 
 export const metadata: Metadata = {
   title: "DCDC - Digital Communication and Design Club",
   description:
     "Official website of the Digital Communication and Design Club (DCDC), SRMIST Ramapuram.",
     other: {
-    "google-site-verification": "Pdlq47..."
-  }
+    "google-site-verification": "Pdlq47gNPazghzKB2nLn9dAcBmnvciG2IGIqZJoWZKk"
+}
 };
 
 export default function RootLayout({
