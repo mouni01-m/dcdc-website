@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dcdc-website-yoje.vercel.app/sitemap.xml
