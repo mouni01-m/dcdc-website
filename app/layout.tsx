@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "DCDC - Digital Communication and Design Club",
   description:
     "Official website of the Digital Communication and Design Club (DCDC), SRMIST Ramapuram.",
+    other: {
+    "google-site-verification": "Pdlq47..."
+  }
 };
 
 export default function RootLayout({
