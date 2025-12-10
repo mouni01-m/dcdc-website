@@ -13,9 +13,7 @@ export const metadata: Metadata = {
   title: "DCDC - Digital Communication and Design Club",
   description:
     "Official website of the Digital Communication and Design Club (DCDC), SRMIST Ramapuram.",
-   icons: {
-    icon: "/favicon.ico",   
-  },
+   
     other: {
     "google-site-verification": "Pdlq47gNPazghzKB2nLn9dAcBmnvciG2IGIqZJoWZKk"
 }
